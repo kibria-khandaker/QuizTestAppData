@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Capital of Bangladesh",
+    "options": ["Dhaka", "Chittagong", "Khulna", "Rajshahi"],
+    "correctAnswer": "Dhaka"
+  },
+  {
+    "question": "Capital of India",
+    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "correctAnswer": "New Delhi"
+  },
+  {
+    "question": "Capital of Pakistan",
+    "options": ["Lahore", "Karachi", "Islamabad", "Peshawar"],
+    "correctAnswer": "Islamabad"
+  },
+  {
+    "question": "Capital of Nepal",
+    "options": ["Pokhara", "Kathmandu", "Lalitpur", "Biratnagar"],
+    "correctAnswer": "Kathmandu"
+  },
+  {
+    "question": "Capital of Sri Lanka",
+    "options": ["Colombo", "Kandy", "Galle", "Jaffna"],
+    "correctAnswer": "Colombo"
+  },
+  {
+    "question": "Capital of China",
+    "options": ["Shanghai", "Beijing", "Guangzhou", "Shenzhen"],
+    "correctAnswer": "Beijing"
+  },
+  {
+    "question": "Capital of Japan",
+    "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "question": "Capital of South Korea",
+    "options": ["Busan", "Incheon", "Seoul", "Daegu"],
+    "correctAnswer": "Seoul"
+  },
+  {
+    "question": "Capital of Thailand",
+    "options": ["Phuket", "Chiang Mai", "Bangkok", "Pattaya"],
+    "correctAnswer": "Bangkok"
+  },
+  {
+    "question": "Capital of Malaysia",
+    "options": ["Penang", "Johor Bahru", "Kuala Lumpur", "Malacca"],
+    "correctAnswer": "Kuala Lumpur"
+  },
+  {
+    "question": "Capital of Indonesia",
+    "options": ["Bali", "Bandung", "Jakarta", "Surabaya"],
+    "correctAnswer": "Jakarta"
+  },
+  {
+    "question": "Capital of Saudi Arabia",
+    "options": ["Mecca", "Medina", "Riyadh", "Jeddah"],
+    "correctAnswer": "Riyadh"
+  },
+  {
+    "question": "Capital of United Arab Emirates",
+    "options": ["Dubai", "Sharjah", "Abu Dhabi", "Ajman"],
+    "correctAnswer": "Abu Dhabi"
+  },
+  {
+    "question": "Capital of Qatar",
+    "options": ["Al Wakrah", "Doha", "Al Khor", "Lusail"],
+    "correctAnswer": "Doha"
+  },
+  {
+    "question": "Capital of Iran",
+    "options": ["Isfahan", "Shiraz", "Tehran", "Tabriz"],
+    "correctAnswer": "Tehran"
+  },
+  {
+    "question": "Capital of Turkey",
+    "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+    "correctAnswer": "Ankara"
+  },
+  {
+    "question": "Capital of United Kingdom",
+    "options": ["Manchester", "Birmingham", "London", "Liverpool"],
+    "correctAnswer": "London"
+  },
+  {
+    "question": "Capital of France",
+    "options": ["Lyon", "Marseille", "Paris", "Nice"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "Capital of Germany",
+    "options": ["Munich", "Hamburg", "Berlin", "Frankfurt"],
+    "correctAnswer": "Berlin"
+  },
+  {
+    "question": "Capital of Italy",
+    "options": ["Milan", "Venice", "Rome", "Naples"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Capital of Spain",
+    "options": ["Barcelona", "Valencia", "Madrid", "Seville"],
+    "correctAnswer": "Madrid"
+  },
+  {
+    "question": "Capital of United States",
+    "options": ["New York", "Los Angeles", "Washington D.C.", "Chicago"],
+    "correctAnswer": "Washington D.C."
+  },
+  {
+    "question": "Capital of Canada",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "question": "Capital of Australia",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": "Canberra"
+  },
+  {
+    "question": "Capital of Russia",
+    "options": ["Saint Petersburg", "Sochi", "Moscow", "Kazan"],
+    "correctAnswer": "Moscow"
+  }
+]

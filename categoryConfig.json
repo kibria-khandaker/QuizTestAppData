@@ -19,5 +19,14 @@
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/it.json",
     "perExam": 10,
     "finalExamQuestions": 20
+  },
+  {
+    "key": "capitalOfCountries",
+    "title": "Capital Of Countries",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/capitalOfCountries.json",
+    "perExam": 5,
+    "finalExamQuestions": 10
   }
+
+
 ]
