@@ -1,0 +1,23 @@
+[
+  {
+    "key": "generalKnowledge",
+    "title": "General Knowledge",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/generalKnowledge.json",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "sports",
+    "title": "Sports",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/sports.json",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "it",
+    "title": "IT",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/it.json",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  }
+]
