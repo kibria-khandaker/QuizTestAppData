@@ -5,11 +5,6 @@
     "correctAnswer": "Mars"
   },  
   {
-    "question": "What is the capital of France?",
-    "options": ["Paris", "London", "Berlin", "Rome"],
-    "correctAnswer": "Paris"
-  },
-  {
     "question": "What is the largest ocean in the world?",
     "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
     "correctAnswer": "Pacific Ocean"
