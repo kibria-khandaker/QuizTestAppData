@@ -10,15 +10,15 @@
     "key": "sports",
     "title": "Sports",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/sports.json",
-    "perExam": 10,
-    "finalExamQuestions": 20
+    "perExam": 20,
+    "finalExamQuestions": 40
   },
   {
     "key": "it",
-    "title": "IT",
+    "title": "IT & Computer",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/it.json",
-    "perExam": 10,
-    "finalExamQuestions": 20
+    "perExam": 20,
+    "finalExamQuestions": 40
   },
   {
     "key": "capitalOfCountries",
