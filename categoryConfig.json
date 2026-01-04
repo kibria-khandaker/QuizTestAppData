@@ -26,6 +26,13 @@
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/capitalOfCountries.json",
     "perExam": 5,
     "finalExamQuestions": 10
+  },
+  {
+    "key": "religionAndEthics",
+    "title": "Religion & Ethics",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/religionAndEthics.json",
+    "perExam": 5,
+    "finalExamQuestions": 10
   }
 
 
