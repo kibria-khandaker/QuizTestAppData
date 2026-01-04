@@ -40,5 +40,33 @@
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/geography.json",
     "perExam": 15,
     "finalExamQuestions": 20
+  },
+  {
+    "key": "geography",
+    "title": "Geography",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/geography.json",
+    "perExam": 15,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "geography",
+    "title": "Geography",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/geography.json",
+    "perExam": 15,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "geography",
+    "title": "Geography",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/geography.json",
+    "perExam": 15,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "geography",
+    "title": "Geography",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/geography.json",
+    "perExam": 15,
+    "finalExamQuestions": 20
   }
 ]
