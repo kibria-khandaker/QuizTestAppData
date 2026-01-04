@@ -1,125 +1,175 @@
 [
   {
+    "id": "CAP-001",
+    "examStageType": "easy",
     "question": "Capital of Bangladesh",
     "options": ["Dhaka", "Chittagong", "Khulna", "Rajshahi"],
     "correctAnswer": "Dhaka"
   },
   {
+    "id": "CAP-002",
+    "examStageType": "easy",
     "question": "Capital of India",
     "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
     "correctAnswer": "New Delhi"
   },
   {
+    "id": "CAP-003",
+    "examStageType": "easy",
     "question": "Capital of Pakistan",
     "options": ["Lahore", "Karachi", "Islamabad", "Peshawar"],
     "correctAnswer": "Islamabad"
   },
   {
+    "id": "CAP-004",
+    "examStageType": "easy",
     "question": "Capital of Nepal",
     "options": ["Pokhara", "Kathmandu", "Lalitpur", "Biratnagar"],
     "correctAnswer": "Kathmandu"
   },
   {
+    "id": "CAP-005",
+    "examStageType": "easy",
     "question": "Capital of Sri Lanka",
     "options": ["Colombo", "Kandy", "Galle", "Jaffna"],
     "correctAnswer": "Colombo"
   },
   {
+    "id": "CAP-006",
+    "examStageType": "easy",
     "question": "Capital of China",
     "options": ["Shanghai", "Beijing", "Guangzhou", "Shenzhen"],
     "correctAnswer": "Beijing"
   },
   {
+    "id": "CAP-007",
+    "examStageType": "easy",
     "question": "Capital of Japan",
     "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
     "correctAnswer": "Tokyo"
   },
   {
+    "id": "CAP-008",
+    "examStageType": "easy",
     "question": "Capital of South Korea",
     "options": ["Busan", "Incheon", "Seoul", "Daegu"],
     "correctAnswer": "Seoul"
   },
   {
+    "id": "CAP-009",
+    "examStageType": "easy",
     "question": "Capital of Thailand",
     "options": ["Phuket", "Chiang Mai", "Bangkok", "Pattaya"],
     "correctAnswer": "Bangkok"
   },
   {
+    "id": "CAP-010",
+    "examStageType": "easy",
     "question": "Capital of Malaysia",
     "options": ["Penang", "Johor Bahru", "Kuala Lumpur", "Malacca"],
     "correctAnswer": "Kuala Lumpur"
   },
   {
+    "id": "CAP-011",
+    "examStageType": "easy",
     "question": "Capital of Indonesia",
     "options": ["Bali", "Bandung", "Jakarta", "Surabaya"],
     "correctAnswer": "Jakarta"
   },
   {
+    "id": "CAP-012",
+    "examStageType": "easy",
     "question": "Capital of Saudi Arabia",
     "options": ["Mecca", "Medina", "Riyadh", "Jeddah"],
     "correctAnswer": "Riyadh"
   },
   {
+    "id": "CAP-013",
+    "examStageType": "easy",
     "question": "Capital of United Arab Emirates",
     "options": ["Dubai", "Sharjah", "Abu Dhabi", "Ajman"],
     "correctAnswer": "Abu Dhabi"
   },
   {
+    "id": "CAP-014",
+    "examStageType": "easy",
     "question": "Capital of Qatar",
     "options": ["Al Wakrah", "Doha", "Al Khor", "Lusail"],
     "correctAnswer": "Doha"
   },
   {
+    "id": "CAP-015",
+    "examStageType": "easy",
     "question": "Capital of Iran",
     "options": ["Isfahan", "Shiraz", "Tehran", "Tabriz"],
     "correctAnswer": "Tehran"
   },
   {
+    "id": "CAP-016",
+    "examStageType": "easy",
     "question": "Capital of Turkey",
     "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
     "correctAnswer": "Ankara"
   },
   {
+    "id": "CAP-017",
+    "examStageType": "easy",
     "question": "Capital of United Kingdom",
     "options": ["Manchester", "Birmingham", "London", "Liverpool"],
     "correctAnswer": "London"
   },
   {
+    "id": "CAP-018",
+    "examStageType": "easy",
     "question": "Capital of France",
     "options": ["Lyon", "Marseille", "Paris", "Nice"],
     "correctAnswer": "Paris"
   },
   {
+    "id": "CAP-019",
+    "examStageType": "easy",
     "question": "Capital of Germany",
     "options": ["Munich", "Hamburg", "Berlin", "Frankfurt"],
     "correctAnswer": "Berlin"
   },
   {
+    "id": "CAP-020",
+    "examStageType": "easy",
     "question": "Capital of Italy",
     "options": ["Milan", "Venice", "Rome", "Naples"],
     "correctAnswer": "Rome"
   },
   {
+    "id": "CAP-021",
+    "examStageType": "easy",
     "question": "Capital of Spain",
     "options": ["Barcelona", "Valencia", "Madrid", "Seville"],
     "correctAnswer": "Madrid"
   },
   {
+    "id": "CAP-022",
+    "examStageType": "easy",
     "question": "Capital of United States",
     "options": ["New York", "Los Angeles", "Washington D.C.", "Chicago"],
     "correctAnswer": "Washington D.C."
   },
   {
+    "id": "CAP-023",
+    "examStageType": "easy",
     "question": "Capital of Canada",
     "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
     "correctAnswer": "Ottawa"
   },
   {
+    "id": "CAP-024",
+    "examStageType": "easy",
     "question": "Capital of Australia",
     "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
     "correctAnswer": "Canberra"
   },
   {
+    "id": "CAP-025",
+    "examStageType": "easy",
     "question": "Capital of Russia",
     "options": ["Saint Petersburg", "Sochi", "Moscow", "Kazan"],
     "correctAnswer": "Moscow"

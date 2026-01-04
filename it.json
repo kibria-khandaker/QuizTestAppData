@@ -1,30 +1,42 @@
 [
   {
+    "id": "IT-001",
+    "examStageType": "easy",
     "question": "Web Development and Web Design both",
     "options": ["Same", "Difrent", "Some similar", "None"],
     "correctAnswer": "Difrent"
   },
   {
+    "id": "IT-002",
+    "examStageType": "easy",
     "question": "HTML stands for?",
     "options": ["Hyper Text Markup Language", "Hyperlinks", "Hyper Tool", "None"],
     "correctAnswer": "Hyper Text Markup Language"
   },
   {
+    "id": "IT-003",
+    "examStageType": "easy",
     "question": "CSS is used for?",
     "options": ["Structure", "Style", "Logic", "Database"],
     "correctAnswer": "Style"
   },
   {
+    "id": "IT-004",
+    "examStageType": "easy",
     "question": "Which language is primarily used for iOS development?",
     "options": ["Java", "Swift", "Kotlin", "Python"],
     "correctAnswer": "Swift"
   },
   {
+    "id": "IT-005",
+    "examStageType": "easy",
     "question": "Which is a backend language?",
     "options": ["HTML", "Python", "CSS", "React"],
     "correctAnswer": "Python"
   },
   {
+    "id": "IT-006",
+    "examStageType": "easy",
     "question": "What does SQL stand for?",
     "options": [
       "Structured Query Language",
@@ -35,11 +47,15 @@
     "correctAnswer": "Structured Query Language"
   },
   {
+    "id": "IT-007",
+    "examStageType": "easy",
     "question": "Which company developed the Java programming language?",
     "options": ["Microsoft", "Sun Microsystems", "Google", "Apple"],
     "correctAnswer": "Sun Microsystems"
   },
   {
+    "id": "IT-008",
+    "examStageType": "easy",
     "question": "What does JSON stand for?",
     "options": [
       "JavaScript Object Notation",
@@ -50,11 +66,15 @@
     "correctAnswer": "JavaScript Object Notation"
   },
   {
+    "id": "IT-009",
+    "examStageType": "easy",
     "question": "Which of the following is a JavaScript framework?",
     "options": ["Django", "React", "Laravel", "Spring"],
     "correctAnswer": "React"
   },
   {
+    "id": "IT-010",
+    "examStageType": "easy",
     "question": "What does API stand for?",
     "options": [
       "Application Programming Interface",
@@ -65,66 +85,92 @@
     "correctAnswer": "Application Programming Interface"
   },
   {
+    "id": "IT-011",
+    "examStageType": "easy",
     "question": "Which HTML tag is used to create a hyperlink?",
     "options": ["<a>", "<link>", "<href>", "<url>"],
     "correctAnswer": "<a>"
   },
   {
+    "id": "IT-012",
+    "examStageType": "easy",
     "question": "Which of these is a NoSQL database?",
     "options": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"],
     "correctAnswer": "MongoDB"
   },
   {
+    "id": "IT-013",
+    "examStageType": "easy",
     "question": "In Git, which command is used to upload local changes to a remote repository?",
     "options": ["git push", "git pull", "git commit", "git clone"],
     "correctAnswer": "git push"
   },
   {
+    "id": "IT-014",
+    "examStageType": "easy",
     "question": "Which symbol is used for comments in JavaScript?",
     "options": ["//", "#", "/* */", "<!-- -->"],
     "correctAnswer": "//"
   },
   {
+    "id": "IT-015",
+    "examStageType": "easy",
     "question": "Which of these is a frontend library?",
     "options": ["Node.js", "React", "Django", "Flask"],
     "correctAnswer": "React"
   },
   {
+    "id": "IT-016",
+    "examStageType": "easy",
     "question": "Which tag is used for inserting an image in HTML?",
     "options": ["<img>", "<image>", "<src>", "<picture>"],
     "correctAnswer": "<img>"
   },
   {
+    "id": "IT-017",
+    "examStageType": "easy",
     "question": "Which method is used to find an element by its ID in JavaScript?",
     "options": ["getElementById()", "querySelectorAll()", "getElementsByClassName()", "getElementsByTagName()"],
     "correctAnswer": "getElementById()"
   },
   {
+    "id": "IT-018",
+    "examStageType": "easy",
     "question": "Which protocol is used to securely browse websites?",
     "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
     "correctAnswer": "HTTPS"
   },
   {
+    "id": "IT-019",
+    "examStageType": "easy",
     "question": "Which company developed the Windows operating system?",
     "options": ["Apple", "Microsoft", "Google", "IBM"],
     "correctAnswer": "Microsoft"
   },
   {
+    "id": "IT-020",
+    "examStageType": "easy",
     "question": "What is the default port number for HTTP?",
     "options": ["80", "21", "443", "8080"],
     "correctAnswer": "80"
   },
   {
+    "id": "IT-021",
+    "examStageType": "easy",
     "question": "Which language is mainly used for Android app development?",
     "options": ["Swift", "Kotlin", "PHP", "Ruby"],
     "correctAnswer": "Kotlin"
   },
   {
+    "id": "IT-022",
+    "examStageType": "easy",
     "question": "Which of these is a version control system?",
     "options": ["Git", "Docker", "Node.js", "React"],
     "correctAnswer": "Git"
   },
   {
+    "id": "IT-023",
+    "examStageType": "easy",
     "question": "Which database uses tables to store data?",
     "options": ["MongoDB", "Cassandra", "MySQL", "Redis"],
     "correctAnswer": "MySQL"
