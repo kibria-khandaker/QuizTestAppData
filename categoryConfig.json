@@ -33,14 +33,5 @@
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData/refs/heads/main/religionAndEthics.json",
     "perExam": 15,
     "finalExamQuestions": 30
-  },
-  {
-    "key": "moreComingSoon",
-    "title": "More Coming Soon ....",
-    "url": "#",
-    "perExam": 1,
-    "finalExamQuestions": 1
   }
-
-
 ]
